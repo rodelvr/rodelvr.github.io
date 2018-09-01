@@ -2473,10 +2473,14 @@
 
 			.image.fit {
 				margin: 2rem 0;
+				margin-left: auto;
+				margin-right: auto;
 			}
 
 			.image.main {
 				margin: 2rem 0;
+				margin-left: auto;
+				margin-right: auto;				
 			}
 
 		}
