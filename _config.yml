@@ -46,7 +46,7 @@ phone:              +31653567371
 email:              rodelvanrooijen@gmail.com
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
