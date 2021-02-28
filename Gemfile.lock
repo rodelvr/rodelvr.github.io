@@ -82,6 +82,7 @@ GEM
     tzinfo (2.0.4)
       concurrent-ruby (~> 1.0)
     wdm (0.1.1)
+    webrick (1.7.0)
     zeitwerk (2.4.2)
 
 PLATFORMS
@@ -95,6 +96,7 @@ DEPENDENCIES
   jekyll-paginate
   jekyll-sitemap
   wdm (>= 0.1.0)
+  webrick
 
 BUNDLED WITH
    2.2.11
