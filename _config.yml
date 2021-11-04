@@ -1,7 +1,7 @@
 # Site
 title:              'Rodel.'
-bio:                'Data Scientist'
-description:        'This is Rodel.'
+bio:                'Tech Lead & Data Scientist'
+description:        'Rodel | Tech Lead & Data Scientist.'
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -41,9 +41,9 @@ instagram:          rodelvr
 github:             rodelvr
 
 # personal
-location:           Amsterdam, the Netherlands
-phone:              +31653567371
-email:              rodelvanrooijen@gmail.com
+location:           Utrecht, the Netherlands
+phone:              +316********
+email:              on@request.com
 
 # Gems
 plugins:
